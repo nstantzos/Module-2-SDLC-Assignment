@@ -1,0 +1,24 @@
+Software development plan
+Requirements:
+Develop software that will retrieve the text from a .htm webpage and count the top 20 occurring words from just a poem contained on the webpage. 
+
+Step 0:
+Get Eclipse (and the necessary Java environment) running on my computer again.
+
+Step 1:
+Test out Java technology that will allow for importing text from a webpage.
+
+Step 2:
+Test out Java technology that will allow for text processing on a text block identical to how it appears on the webpage.
+
+Step 3:
+Test out Java text processing technology that will allow for ignoring HTML tags and identifying keywords (poem title, poem end).
+
+Step 4:
+Run text processing code on manually-imported webpage text.
+
+Step 5:
+Substitute manually-imported webpage text with automated webpage text import from Step 1.
+
+Step 6:
+Profit?
