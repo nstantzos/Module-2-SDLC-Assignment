@@ -1,5 +1,5 @@
 /**
- * Program created by Nick Stantzos, finished on May 5 2020. The purpose of this program is to read in text from a website
+ * Program created by Nick Stantzos, finished on May 17 2020. The purpose of this program is to read in text from a website
  * that contains the poem "The Raven" by Edgar Allan Poe and count the number of occurrences of each word, displaying the 
  * results in order of most to least frequent. The text parsing portion of this assignment was fairly tedious, as I needed
  * to filter out all extraneous HTML tags/text, formatting/font characters, and punctuation. If I had known of an HTML
